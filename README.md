@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chikenberger
-- 👀 I’m interested in gamedev, software development
-- 🌱 I’m currently learning C++, Qt, Python
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning C++, Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me https://vk.com/espadaarrancar
