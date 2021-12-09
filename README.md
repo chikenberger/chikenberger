@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chikenberger
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning C++, Python
+- 🌱 I’m currently learning C++, Python, Linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://vk.com/espadaarrancar
